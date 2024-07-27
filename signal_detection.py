@@ -8,7 +8,7 @@ pygame.init()
 beep_sound = pygame.mixer.Sound('beep.wav')  # Ensure you have a beep.wav file in your directory
 
 # Load the trained model
-model = tf.saved_model.load('path/to/your/model') 
+model = tf.saved_model.load('./distraction_model') 
 
 # Load label map
 category_index = {
