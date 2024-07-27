@@ -1,0 +1,448 @@
+filename,width,height,class,xmin,ymin,xmax,ymax
+controller (1).jpeg,320,180,controller,16,9,81,83
+controller (1).jpeg,320,180,controller,89,7,168,85
+controller (1).jpeg,320,180,controller,171,7,267,84
+controller (1).jpeg,320,180,controller,8,78,70,159
+controller (1).jpeg,320,180,controller,72,85,135,160
+controller (1).jpeg,320,180,controller,136,87,190,167
+controller (1).jpeg,320,180,controller,192,86,254,164
+controller (10).jpeg,241,180,controller,77,3,141,131
+controller (11).jpeg,240,180,controller,181,32,232,135
+controller (11).jpeg,240,180,controller,9,39,76,136
+controller (12).jpeg,240,180,controller,37,3,232,139
+controller (13).jpeg,240,180,controller,35,72,154,179
+controller (14).jpeg,203,180,controller,23,1,186,127
+controller (15).jpeg,202,180,controller,20,1,185,131
+controller (16).jpeg,190,180,controller,1,1,189,180
+controller (17).jpeg,187,180,controller,21,3,178,176
+controller (18).jpeg,180,180,controller,33,36,162,161
+controller (19).jpeg,180,180,controller,26,25,69,144
+controller (19).jpeg,180,180,controller,118,27,160,147
+controller (20).jpeg,180,180,controller,7,5,134,69
+controller (20).jpeg,180,180,controller,38,65,171,175
+controller (21).jpeg,180,180,controller,17,9,164,173
+controller (22).jpeg,180,180,controller,12,22,172,150
+controller (23).jpeg,180,180,controller,11,1,110,128
+controller (23).jpeg,180,180,controller,97,35,180,161
+controller (24).jpeg,180,180,controller,34,22,158,141
+controller (25).jpeg,172,180,controller,16,2,152,134
+controller (25).jpeg,172,180,controller,71,135,104,180
+controller (26).jpeg,169,180,controller,16,8,159,175
+controller (27).jpeg,161,180,controller,13,9,152,172
+controller (28).jpeg,143,180,controller,51,57,135,163
+controller (29).jpeg,142,179,controller,1,8,64,152
+controller (29).jpeg,142,179,controller,82,1,142,142
+controller (31).jpeg,320,180,controller,10,10,308,180
+controller (32).jpeg,257,180,controller,19,7,234,168
+controller (33).jpeg,240,180,controller,14,3,209,156
+controller (34).jpeg,238,180,controller,7,1,238,180
+controller (35).jpeg,233,180,controller,13,8,233,180
+controller (36).jpeg,233,180,controller,27,20,211,171
+controller (37).jpeg,231,180,controller,1,11,231,180
+controller (38).jpeg,231,180,controller,23,9,215,169
+controller (39).jpeg,216,180,controller,54,12,188,167
+controller (40).jpeg,180,180,controller,7,21,175,166
+controller (7).jpeg,276,180,controller,111,50,266,172
+controller (8).jpeg,270,180,controller,149,36,182,130
+controller (8).jpeg,270,180,controller,201,42,237,155
+controller (8).jpeg,270,180,controller,77,3,116,101
+controller (8).jpeg,270,180,controller,27,59,69,170
+controller (9).jpeg,255,180,controller,29,18,220,169
+controller.jpeg,320,180,controller,114,16,220,140
+phone (10).jpeg,360,180,phone,146,1,262,74
+phone (100).jpeg,270,180,phone,88,21,182,164
+phone (11).jpeg,360,180,phone,18,2,186,180
+phone (12).jpeg,360,180,phone,151,17,214,126
+phone (13).jpeg,360,180,phone,142,21,218,162
+phone (14).jpeg,356,180,phone,76,101,120,156
+phone (19).jpeg,324,180,phone,2,3,160,174
+phone (19).jpeg,324,180,phone,167,3,321,174
+phone (20).jpeg,323,180,phone,100,21,200,153
+phone (21).jpeg,320,180,phone,57,13,132,163
+phone (21).jpeg,320,180,phone,166,12,251,166
+phone (22).jpeg,320,180,phone,64,65,136,158
+phone (23).jpeg,320,180,phone,39,21,167,180
+phone (24).jpeg,320,180,phone,20,1,143,169
+phone (24).jpeg,320,180,phone,145,2,302,180
+phone (25).jpeg,320,180,phone,116,34,218,165
+phone (26).jpeg,320,180,phone,146,72,228,162
+phone (27).jpeg,320,180,phone,119,1,223,180
+phone (28).jpeg,320,180,phone,92,88,141,156
+phone (29).jpeg,320,180,phone,59,7,105,94
+phone (29).jpeg,320,180,phone,149,8,189,93
+phone (30).jpeg,320,180,phone,67,46,250,147
+phone (31).jpeg,320,180,phone,155,15,239,166
+phone (32).jpeg,320,180,phone,204,56,269,176
+phone (33).jpeg,320,180,phone,87,10,168,160
+phone (34).jpeg,320,180,phone,89,29,151,149
+phone (34).jpeg,320,180,phone,170,40,228,149
+phone (35).jpeg,320,180,phone,114,21,224,158
+phone (36).jpeg,320,180,phone,94,26,224,178
+phone (37).jpeg,320,180,phone,117,1,217,174
+phone (38).jpeg,320,180,phone,146,64,213,180
+phone (39).jpeg,320,180,phone,94,24,227,100
+phone (4).jpeg,360,180,phone,128,2,284,175
+phone (40).jpeg,320,180,phone,39,1,130,180
+phone (41).jpeg,320,180,phone,130,16,198,159
+phone (42).jpeg,320,180,phone,114,2,209,178
+phone (43).jpeg,320,180,phone,108,60,168,130
+phone (44).jpeg,320,180,phone,52,59,150,180
+phone (44).jpeg,320,180,phone,161,9,254,147
+phone (45).jpeg,320,180,phone,75,38,224,158
+phone (46).jpeg,320,180,phone,134,19,190,124
+phone (47).jpeg,320,180,phone,70,106,109,152
+phone (48).jpeg,320,180,phone,102,31,261,160
+phone (49).jpeg,320,180,phone,31,37,128,110
+phone (5).jpeg,360,180,phone,15,18,360,155
+phone (50).jpeg,319,180,phone,124,9,211,161
+phone (51).jpeg,319,180,phone,129,15,167,53
+phone (51).jpeg,319,180,phone,168,24,218,58
+phone (51).jpeg,319,180,phone,207,47,247,69
+phone (51).jpeg,319,180,phone,205,84,288,175
+phone (51).jpeg,319,180,phone,131,62,178,132
+phone (51).jpeg,319,180,phone,71,72,134,128
+phone (51).jpeg,319,180,phone,43,67,86,94
+phone (51).jpeg,319,180,phone,76,41,116,71
+phone (52).jpeg,319,180,phone,90,11,260,169
+phone (53).jpeg,312,180,phone,87,32,158,169
+phone (53).jpeg,312,180,phone,145,25,200,155
+phone (54).jpeg,309,180,phone,115,8,179,102
+phone (55).jpeg,300,180,phone,68,7,255,179
+phone (56).jpeg,300,180,phone,123,23,207,111
+phone (57).jpeg,300,180,phone,78,40,214,145
+phone (58).jpeg,300,180,phone,117,30,267,142
+phone (59).jpeg,300,180,phone,114,25,186,160
+phone (6).jpeg,360,180,phone,46,95,131,179
+phone (60).jpeg,289,180,phone,59,29,114,116
+phone (61).jpeg,288,180,phone,164,114,203,159
+phone (62).jpeg,278,180,phone,80,26,251,134
+phone (63).jpeg,277,180,phone,150,115,184,152
+phone (64).jpeg,275,180,phone,93,2,185,177
+phone (65).jpeg,274,180,phone,96,2,193,179
+phone (65).jpeg,274,180,phone,12,6,84,119
+phone (66).jpeg,271,180,phone,78,14,198,160
+phone (67).jpeg,270,180,phone,77,33,186,147
+phone (68).jpeg,270,180,phone,1,1,213,166
+phone (69).jpeg,270,180,phone,118,1,192,157
+phone (7).jpeg,360,180,phone,75,46,205,144
+phone (70).jpeg,270,180,phone,111,19,179,138
+phone (71).jpeg,270,180,phone,106,35,153,126
+phone (72).jpeg,270,180,phone,42,44,103,128
+phone (73).jpeg,270,180,phone,126,91,162,138
+phone (74).jpeg,270,180,phone,38,48,114,116
+phone (75).jpeg,270,180,phone,46,26,145,145
+phone (76).jpeg,270,180,phone,86,23,150,131
+phone (77).jpeg,270,180,phone,106,48,171,123
+phone (78).jpeg,270,180,phone,86,65,187,180
+phone (79).jpeg,270,180,phone,102,30,178,170
+phone (80).jpeg,270,180,phone,101,5,182,171
+phone (81).jpeg,270,180,phone,172,38,213,114
+phone (82).jpeg,270,180,phone,55,37,116,119
+phone (83).jpeg,270,180,phone,68,23,207,136
+phone (84).jpeg,270,180,phone,71,29,179,149
+phone (85).jpeg,270,180,phone,86,12,173,164
+phone (86).jpeg,270,180,phone,120,78,176,165
+phone (87).jpeg,270,180,phone,74,122,106,159
+phone (88).jpeg,270,180,phone,103,52,161,111
+phone (89).jpeg,270,180,phone,132,63,193,153
+phone (9).jpeg,360,180,phone,53,2,188,164
+phone (9).jpeg,360,180,phone,196,6,328,161
+phone (90).jpeg,270,180,phone,81,41,149,119
+phone (91).jpeg,270,180,phone,51,50,164,134
+phone (92).jpeg,270,180,phone,125,65,185,145
+phone (93).jpeg,270,180,phone,106,31,199,135
+phone (94).jpeg,270,180,phone,170,61,203,118
+phone (95).jpeg,270,180,phone,103,38,248,132
+phone (96).jpeg,270,180,phone,73,44,145,129
+phone (97).jpeg,270,180,phone,112,27,179,151
+phone (98).jpeg,270,180,phone,118,74,185,168
+phone (99).jpeg,270,180,phone,104,25,164,144
+phone - 2024-07-24T232718.736.jpeg,207,180,phone,9,5,98,177
+phone - 2024-07-24T232718.736.jpeg,207,180,phone,110,3,197,176
+phone - 2024-07-24T232719.056.jpeg,185,180,phone,2,2,90,178
+phone - 2024-07-24T232719.056.jpeg,185,180,phone,96,2,185,180
+phone - 2024-07-24T232719.109.jpeg,180,180,phone,4,54,179,137
+phone - 2024-07-24T232719.186.jpeg,180,180,phone,83,1,169,122
+phone - 2024-07-24T232719.266.jpeg,180,180,phone,22,50,88,149
+phone - 2024-07-24T232719.338.jpeg,161,180,phone,37,6,126,179
+phone - 2024-07-24T232719.412.jpeg,158,180,phone,31,1,122,180
+phone - 2024-07-24T232719.806.jpeg,120,180,phone,40,69,80,125
+phone - 2024-07-24T232719.883.jpeg,120,180,phone,34,51,83,139
+phone - 2024-07-24T232719.969.jpeg,120,180,phone,96,122,120,162
+phone - 2024-07-24T232720.084.jpeg,111,179,phone,55,45,77,87
+phone - 2024-07-24T232720.179.jpeg,106,180,phone,33,1,83,105
+phone - 2024-07-24T232720.324.jpeg,96,96,phone,1,1,58,96
+phone - 2024-07-24T232720.393.jpeg,96,96,phone,16,13,54,77
+phone - 2024-07-24T232720.393.jpeg,96,96,phone,60,20,96,82
+phone - 2024-07-24T232720.480.jpeg,96,96,phone,14,26,49,77
+phone - 2024-07-24T232720.539.jpeg,96,96,phone,10,15,62,76
+phone - 2024-07-24T232720.615.jpeg,88,88,phone,9,3,73,86
+phone - 2024-07-24T233228.588.jpeg,320,180,phone,105,29,179,168
+phone - 2024-07-24T233228.693.jpeg,320,180,phone,86,6,243,180
+phone - 2024-07-24T233228.756.jpeg,320,180,phone,31,12,112,170
+phone - 2024-07-24T233228.756.jpeg,320,180,phone,119,10,201,171
+phone - 2024-07-24T233228.756.jpeg,320,180,phone,209,8,289,170
+phone - 2024-07-24T233228.854.jpeg,296,180,phone,12,35,72,154
+phone - 2024-07-24T233228.854.jpeg,296,180,phone,81,36,142,152
+phone - 2024-07-24T233228.854.jpeg,296,180,phone,152,34,215,151
+phone - 2024-07-24T233228.854.jpeg,296,180,phone,222,35,282,154
+phone - 2024-07-24T233228.928.jpeg,272,180,phone,51,4,224,180
+phone - 2024-07-24T233229.115.jpeg,272,180,phone,136,8,229,144
+phone - 2024-07-24T233229.208.jpeg,270,180,phone,92,8,177,173
+phone - 2024-07-24T233229.316.jpeg,270,180,phone,112,6,190,170
+phone - 2024-07-24T233229.387.jpeg,270,180,phone,94,4,179,177
+phone - 2024-07-24T233229.466.jpeg,264,180,phone,50,27,121,163
+phone - 2024-07-24T233229.466.jpeg,264,180,phone,141,26,210,161
+phone - 2024-07-24T233229.540.jpeg,262,180,phone,89,7,177,171
+phone - 2024-07-24T233229.595.jpeg,240,180,phone,4,13,219,180
+phone - 2024-07-24T233229.664.jpeg,240,180,phone,31,29,206,180
+phone - 2024-07-24T233229.836.jpeg,240,180,phone,23,50,212,143
+phone - 2024-07-24T233229.967.jpeg,227,180,phone,78,13,150,155
+phone - 2024-07-24T233230.071.jpeg,216,180,phone,22,16,103,165
+phone - 2024-07-24T233230.071.jpeg,216,180,phone,115,14,191,164
+phone - 2024-07-24T233230.207.jpeg,215,180,phone,68,6,149,170
+phone - 2024-07-24T233230.325.jpeg,180,180,phone,41,1,138,180
+phone - 2024-07-24T233230.440.jpeg,180,180,phone,27,4,60,177
+phone - 2024-07-24T233230.440.jpeg,180,180,phone,63,4,148,176
+phone - 2024-07-24T233230.549.jpeg,180,180,phone,41,1,139,180
+phone - 2024-07-24T233230.659.jpeg,180,180,phone,49,14,132,167
+phone - 2024-07-24T233230.856.jpeg,180,180,phone,11,26,82,175
+phone - 2024-07-24T233230.856.jpeg,180,180,phone,84,24,157,172
+phone - 2024-07-24T233230.986.jpeg,180,180,phone,24,22,91,159
+phone - 2024-07-24T233230.986.jpeg,180,180,phone,100,22,166,159
+phone - 2024-07-24T233231.116.jpeg,180,180,phone,5,3,179,172
+phone - 2024-07-24T233231.206.jpeg,180,180,phone,5,5,87,176
+phone - 2024-07-24T233231.206.jpeg,180,180,phone,95,5,175,173
+phone - 2024-07-24T233231.303.jpeg,180,180,phone,48,8,134,174
+phone - 2024-07-24T233231.405.jpeg,180,180,phone,45,3,135,176
+phone - 2024-07-24T233231.496.jpeg,180,180,phone,19,13,135,173
+phone - 2024-07-24T233231.621.jpeg,180,180,phone,44,1,139,180
+phone - 2024-07-24T233231.757.jpeg,180,180,phone,50,9,131,169
+phone - 2024-07-24T233231.872.jpeg,166,180,phone,65,8,141,136
+phone - 2024-07-24T233232.003.jpeg,150,180,phone,1,1,150,177
+phone - 2024-07-24T233232.096.jpeg,135,180,phone,32,47,86,152
+phone - 2024-07-24T233232.197.jpeg,120,180,phone,20,10,100,170
+phone - 2024-07-24T233232.316.jpeg,120,180,phone,42,33,113,147
+phone - 2024-07-24T233232.413.jpeg,120,180,phone,20,6,103,175
+phone - 2024-07-24T233232.503.jpeg,120,180,phone,20,11,99,170
+phone - 2024-07-24T233232.615.jpeg,115,180,phone,16,8,103,174
+phone - 2024-07-24T233232.732.jpeg,114,180,phone,11,14,101,180
+phone - 2024-07-24T233232.767.jpeg,113,180,phone,29,24,82,111
+phone - 2024-07-24T233232.861.jpeg,113,179,phone,1,2,113,177
+phone - 2024-07-24T233232.962.jpeg,111,180,phone,22,17,88,151
+phone - 2024-07-24T233233.055.jpeg,110,180,phone,1,1,110,178
+phone - 2024-07-24T233233.153.jpeg,108,180,phone,17,11,89,157
+phone - 2024-07-24T233233.252.jpeg,99,179,phone,8,5,91,174
+phone - 2024-07-24T233233.328.jpeg,97,180,phone,4,1,97,180
+phone - 2024-07-24T233233.431.jpeg,97,180,phone,7,6,90,174
+phone - 2024-07-24T233233.521.jpeg,92,179,phone,4,2,89,179
+phone - 2024-07-24T233233.658.jpeg,91,179,phone,1,6,91,174
+phone - 2024-07-24T233233.765.jpeg,89,179,phone,2,3,89,176
+phone - 2024-07-24T233233.888.jpeg,88,180,phone,3,3,85,168
+phone - 2024-07-24T233234.029.jpeg,96,96,phone,22,17,63,90
+phone - 2024-07-24T233234.096.jpeg,96,96,phone,21,18,96,78
+phone - 2024-07-24T233234.130.jpeg,96,96,phone,3,4,27,87
+phone - 2024-07-24T233234.130.jpeg,96,96,phone,29,5,54,90
+phone - 2024-07-24T233234.130.jpeg,96,96,phone,56,5,79,88
+phone - 2024-07-24T233234.130.jpeg,96,96,phone,81,3,96,90
+phone - 2024-07-24T233234.203.jpeg,96,96,phone,27,3,69,94
+phone - 2024-07-24T233234.266.jpeg,96,96,phone,24,2,72,96
+phone - 2024-07-24T233234.332.jpeg,96,96,phone,4,3,46,92
+phone - 2024-07-24T233234.332.jpeg,96,96,phone,49,4,92,92
+phone - 2024-07-24T233234.419.jpeg,88,88,phone,6,3,55,88
+phone - 2024-07-24T233234.419.jpeg,88,88,phone,40,31,80,88
+phone - 2024-07-24T233234.547.jpeg,88,88,phone,3,7,39,80
+phone - 2024-07-24T233234.547.jpeg,88,88,phone,47,9,86,80
+phone - 2024-07-24T233234.698.jpeg,88,88,phone,24,3,62,85
+phone - 2024-07-24T233234.853.jpeg,88,88,phone,22,1,70,88
+phone - 2024-07-24T233234.924.jpeg,88,88,phone,25,3,62,84
+phone - 2024-07-24T233234.994.jpeg,88,88,phone,24,6,64,82
+th (35).jpeg,180,180,controller,4,5,180,169
+th (36).jpeg,180,180,controller,5,12,179,168
+th (37).jpeg,120,180,controller,3,15,118,94
+th (37).jpeg,120,180,controller,11,99,116,171
+th (38).jpeg,96,96,controller,1,13,95,96
+th (39).jpeg,96,96,controller,1,1,96,96
+th (40).jpeg,96,96,controller,4,18,93,82
+th (41).jpeg,96,96,controller,3,45,96,96
+th (42).jpeg,96,96,controller,1,12,96,96
+th (43).jpeg,96,96,controller,1,25,96,96
+th (46).jpeg,96,96,controller,20,17,86,70
+th (46).jpeg,96,96,controller,3,26,17,66
+th (46).jpeg,96,96,controller,83,26,96,66
+th (47).jpeg,96,96,controller,1,22,48,76
+th (47).jpeg,96,96,controller,50,25,96,79
+th (48).jpeg,96,96,controller,2,3,95,86
+th (49).jpeg,96,96,controller,1,5,96,90
+th (50).jpeg,96,96,controller,1,2,96,96
+th (51).jpeg,96,96,controller,1,11,96,88
+th (52).jpeg,474,174,controller,19,55,208,133
+th (52).jpeg,474,174,controller,248,51,456,143
+th (53).jpeg,451,180,controller,28,51,189,157
+th (53).jpeg,451,180,controller,242,25,401,126
+th (54).jpeg,474,169,controller,21,17,216,149
+th (54).jpeg,474,169,controller,246,11,448,161
+th (55).jpeg,430,180,controller,23,2,407,167
+th (56).jpeg,430,180,controller,7,17,219,165
+th (56).jpeg,430,180,controller,220,17,422,172
+th (57).jpeg,380,180,controller,91,45,293,176
+th (58).jpeg,360,180,controller,67,43,294,159
+th (59).jpeg,360,180,controller,30,58,183,164
+th (59).jpeg,360,180,controller,189,59,335,168
+th (60).jpeg,360,180,controller,19,4,334,177
+th (61).jpeg,354,180,controller,81,2,265,178
+th (62).jpeg,334,180,controller,7,32,163,145
+th (62).jpeg,334,180,controller,175,35,331,141
+th (63).jpeg,330,180,controller,36,24,272,174
+th (64).jpeg,320,180,controller,110,51,320,178
+th (65).jpeg,320,180,controller,66,1,266,160
+th (66).jpeg,320,180,controller,103,46,215,116
+th (67).jpeg,320,180,controller,178,89,306,173
+th (67).jpeg,320,180,controller,188,10,308,59
+th (67).jpeg,320,180,controller,11,2,82,85
+th (67).jpeg,320,180,controller,1,93,168,174
+th (68).jpeg,320,180,controller,70,114,164,178
+th (68).jpeg,320,180,controller,167,111,258,179
+th (69).jpeg,320,180,controller,139,69,320,180
+th (69).jpeg,320,180,controller,37,1,181,96
+th (70).jpeg,320,180,controller,7,68,135,149
+th (70).jpeg,320,180,controller,152,10,278,113
+th (71).jpeg,320,180,controller,4,37,169,170
+th (71).jpeg,320,180,controller,157,7,313,152
+th (72).jpeg,320,180,controller,12,35,214,176
+th (73).jpeg,320,180,controller,40,3,196,175
+th (73).jpeg,320,180,controller,175,20,320,177
+th (74).jpeg,320,180,controller,1,16,226,180
+th (75).jpeg,320,180,controller,51,22,273,165
+th (76).jpeg,320,180,controller,20,2,301,176
+th (77).jpeg,320,180,controller,49,3,173,173
+th (77).jpeg,320,180,controller,172,4,284,166
+th (78).jpeg,320,180,controller,46,26,157,100
+th (78).jpeg,320,180,controller,158,23,271,112
+th (78).jpeg,320,180,controller,101,98,222,175
+th (79).jpeg,320,180,controller,20,37,216,176
+th (80).jpeg,320,180,controller,21,72,154,157
+th (80).jpeg,320,180,controller,171,72,295,155
+th (81).jpeg,319,180,controller,1,5,158,179
+th (81).jpeg,319,180,controller,160,6,318,177
+th (82).jpeg,319,180,controller,15,32,141,134
+th (82).jpeg,319,180,controller,158,37,304,135
+th (83).jpeg,316,180,controller,3,1,313,180
+th (84).jpeg,316,180,controller,14,21,301,158
+th (85).jpeg,314,180,controller,47,31,269,171
+th (86).jpeg,305,180,controller,23,2,248,180
+th (87).jpeg,305,180,controller,107,91,220,173
+th (88).jpeg,300,180,controller,10,5,294,178
+th (90).jpeg,294,180,controller,6,44,167,180
+th (90).jpeg,294,180,controller,153,43,294,176
+th (91).jpeg,288,180,controller,56,6,242,171
+th (92).jpeg,281,180,controller,8,6,274,180
+th (93).jpeg,280,180,controller,17,11,261,170
+th (94).jpeg,278,180,controller,10,3,278,171
+th (95).jpeg,277,180,controller,15,1,274,165
+th (96).jpeg,275,180,controller,2,1,275,180
+th (97).jpeg,274,180,controller,41,39,229,161
+th (98).jpeg,273,180,controller,3,8,271,177
+th (99).jpeg,272,180,controller,6,6,272,177
+th - 2024-07-24T231333.563.jpeg,271,180,controller,36,34,231,163
+th - 2024-07-24T231333.679.jpeg,270,180,controller,72,35,201,107
+th - 2024-07-24T231333.679.jpeg,270,180,controller,76,88,194,150
+th - 2024-07-24T231333.785.jpeg,270,180,controller,6,2,265,166
+th - 2024-07-24T231333.871.jpeg,270,180,controller,1,38,270,180
+th - 2024-07-24T231333.972.jpeg,270,180,controller,106,60,242,164
+th - 2024-07-24T231334.045.jpeg,270,180,controller,1,46,204,180
+th - 2024-07-24T231334.141.jpeg,270,180,controller,28,82,136,176
+th - 2024-07-24T231334.272.jpeg,270,180,controller,20,54,134,142
+th - 2024-07-24T231334.272.jpeg,270,180,controller,137,58,256,140
+th - 2024-07-24T231334.353.jpeg,270,180,controller,3,3,269,177
+th - 2024-07-24T231334.461.jpeg,270,180,controller,10,25,141,137
+th - 2024-07-24T231334.461.jpeg,270,180,controller,116,40,268,161
+th - 2024-07-24T231334.635.jpeg,268,180,controller,57,42,203,142
+th - 2024-07-24T231334.711.jpeg,267,180,controller,4,1,267,180
+th - 2024-07-24T231334.760.jpeg,267,180,controller,61,79,210,176
+th - 2024-07-24T231334.869.jpeg,264,180,controller,1,2,264,180
+th - 2024-07-24T231334.962.jpeg,264,180,controller,24,17,244,165
+th - 2024-07-24T231335.045.jpeg,264,180,controller,1,1,264,180
+th - 2024-07-24T231335.142.jpeg,260,180,controller,30,13,125,155
+th - 2024-07-24T231335.142.jpeg,260,180,controller,131,16,236,160
+th - 2024-07-24T231335.362.jpeg,257,180,controller,5,1,257,180
+th - 2024-07-24T231335.446.jpeg,256,180,controller,5,1,256,177
+th - 2024-07-24T231335.533.jpeg,256,180,controller,1,2,256,180
+th - 2024-07-24T231335.601.jpeg,256,180,controller,17,23,240,163
+th - 2024-07-24T231335.669.jpeg,256,180,controller,3,1,256,180
+th - 2024-07-24T231335.740.jpeg,256,180,controller,2,3,256,180
+th - 2024-07-24T231335.870.jpeg,253,180,controller,33,12,225,148
+th - 2024-07-24T231335.951.jpeg,253,180,controller,23,45,234,180
+th - 2024-07-24T231336.018.jpeg,245,180,controller,1,9,85,83
+th - 2024-07-24T231336.018.jpeg,245,180,controller,156,8,245,95
+th - 2024-07-24T231336.093.jpeg,241,180,controller,27,18,214,143
+th - 2024-07-24T231336.164.jpeg,240,180,controller,10,56,180,162
+th - 2024-07-24T231336.164.jpeg,240,180,controller,96,9,240,123
+th - 2024-07-24T231336.260.jpeg,240,180,controller,23,19,219,144
+th - 2024-07-24T231336.373.jpeg,240,180,controller,61,1,160,92
+th - 2024-07-24T231336.373.jpeg,240,180,controller,130,59,240,146
+th - 2024-07-24T231336.373.jpeg,240,180,controller,1,88,133,180
+th - 2024-07-24T231336.451.jpeg,240,180,controller,15,37,230,175
+th - 2024-07-24T231336.558.jpeg,240,180,controller,59,41,184,130
+th - 2024-07-24T231336.649.jpeg,240,180,controller,29,9,216,175
+th - 2024-07-24T231336.868.jpeg,240,180,controller,34,42,210,151
+th - 2024-07-24T231336.935.jpeg,240,180,controller,25,7,220,175
+th - 2024-07-24T231336.982.jpeg,240,180,controller,5,17,234,150
+th - 2024-07-24T231337.138.jpeg,240,180,controller,61,40,232,162
+th - 2024-07-24T231337.204.jpeg,240,180,controller,4,50,118,127
+th - 2024-07-24T231337.204.jpeg,240,180,controller,124,53,237,127
+th - 2024-07-24T231337.266.jpeg,240,180,controller,1,10,240,180
+th - 2024-07-24T231337.356.jpeg,240,180,controller,44,78,206,176
+th - 2024-07-24T231337.356.jpeg,240,180,controller,53,34,195,84
+th - 2024-07-24T231337.457.jpeg,240,180,controller,23,71,190,174
+th - 2024-07-24T231337.457.jpeg,240,180,controller,83,14,223,130
+th - 2024-07-24T231337.526.jpeg,240,180,controller,18,21,223,165
+th - 2024-07-24T231337.622.jpeg,240,180,controller,1,44,122,146
+th - 2024-07-24T231337.622.jpeg,240,180,controller,124,50,240,140
+th - 2024-07-24T231337.807.jpeg,237,180,controller,20,11,216,143
+th - 2024-07-24T231337.902.jpeg,228,180,controller,6,1,228,177
+th - 2024-07-24T231338.005.jpeg,225,180,controller,29,44,204,158
+th - 2024-07-24T231338.089.jpeg,217,180,controller,2,3,214,153
+th - 2024-07-24T231338.193.jpeg,215,180,controller,1,1,215,173
+th - 2024-07-24T231338.545.jpeg,203,180,controller,12,58,191,179
+th - 2024-07-24T231338.720.jpeg,188,180,controller,1,1,188,180
+th - 2024-07-24T231338.770.jpeg,187,180,controller,6,16,174,158
+th - 2024-07-24T231338.837.jpeg,183,180,controller,1,35,183,180
+th - 2024-07-24T231338.915.jpeg,180,180,controller,8,35,172,143
+th - 2024-07-24T231338.971.jpeg,180,180,controller,38,39,152,148
+th - 2024-07-24T231339.024.jpeg,180,180,controller,1,20,180,170
+th - 2024-07-24T231339.126.jpeg,180,180,controller,7,37,177,148
+th - 2024-07-24T231339.194.jpeg,180,180,controller,21,60,180,180
+th - 2024-07-24T231339.253.jpeg,180,180,controller,2,4,178,176
+th - 2024-07-24T231339.322.jpeg,180,180,controller,1,6,180,177
+th - 2024-07-24T231339.435.jpeg,180,180,controller,32,51,147,124
+th - 2024-07-24T231339.497.jpeg,180,180,controller,13,39,164,136
+th - 2024-07-24T231339.664.jpeg,180,180,controller,12,55,168,152
+th - 2024-07-24T231339.664.jpeg,180,180,controller,1,27,70,64
+th - 2024-07-24T231339.714.jpeg,180,180,controller,6,10,180,160
+th - 2024-07-24T231339.772.jpeg,180,180,controller,2,7,180,176
+th - 2024-07-24T231339.857.jpeg,180,180,controller,2,2,180,173
+th - 2024-07-24T231340.003.jpeg,167,180,controller,4,3,161,172
+th - 2024-07-24T231340.108.jpeg,165,180,controller,2,6,165,180
+th - 2024-07-24T231340.205.jpeg,156,180,controller,2,9,156,168
+th - 2024-07-24T231340.322.jpeg,135,180,controller,5,36,135,138
+th - 2024-07-24T231340.423.jpeg,120,180,controller,1,37,113,180
+th - 2024-07-24T231340.508.jpeg,120,180,controller,4,17,119,97
+th - 2024-07-24T231340.508.jpeg,120,180,controller,7,97,120,173
+th - 2024-07-24T231340.683.jpeg,96,96,controller,1,1,96,95
+th - 2024-07-24T231340.733.jpeg,96,96,controller,5,16,93,83
+th - 2024-07-24T231340.802.jpeg,96,96,controller,20,19,85,67
+th - 2024-07-24T231340.802.jpeg,96,96,controller,84,25,96,69
+th - 2024-07-24T231340.802.jpeg,96,96,controller,3,23,18,66
+th - 2024-07-24T231340.857.jpeg,96,96,controller,5,44,92,96
+th - 2024-07-24T231340.939.jpeg,96,96,controller,1,6,96,96
+th - 2024-07-24T231341.012.jpeg,96,96,controller,1,12,96,96
+th - 2024-07-24T231341.091.jpeg,96,96,controller,3,4,96,90
+th - 2024-07-24T231341.167.jpeg,96,96,controller,1,23,49,78
+th - 2024-07-24T231341.167.jpeg,96,96,controller,50,26,96,77
+th - 2024-07-24T231341.259.jpeg,96,96,controller,1,26,96,96
+th - 2024-07-24T231341.324.jpeg,96,96,controller,1,1,96,96
+th - 2024-07-24T231341.411.jpeg,96,96,controller,2,5,93,87
+th - 2024-07-24T231341.480.jpeg,96,96,controller,1,11,96,96
+th - 2024-07-24T231341.575.jpeg,96,96,controller,1,11,96,96
+th - 2024-07-24T231341.673.jpeg,96,96,controller,1,1,95,92
