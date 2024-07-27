@@ -1,0 +1,7 @@
+item {
+  id: 1
+  name: 'controller'
+} item {
+  id: 2
+  name: 'phone'
+}
