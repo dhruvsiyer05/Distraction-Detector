@@ -24,6 +24,7 @@ Installation of this application should be fairly quick, just follow the steps b
    pip install -r requirements.txt
 
 3. **Now, just run the application by running the python script utilized for detection! The custom model and everything else is already pre-installed.**
+   ```python
    python distraction_detector.py
 
    
